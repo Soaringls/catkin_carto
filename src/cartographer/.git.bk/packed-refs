@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled 
+00bfe68d1a280aa6c0b1d2487ecaf68d2cdeb5fc refs/remotes/origin/creds
+8c85193e19d8f0cf971acda3161f7fc36a36107f refs/remotes/origin/cschuet-patch-1
+3f3428e8d437f5d8172238dddec1878efe82f671 refs/remotes/origin/master
+4458331d08d7fa597ae7d902529692526bff1f6d refs/remotes/origin/release-1.0
+fc3aba9aac328dda5540ae48451a7a2d45c6aac5 refs/remotes/origin/slides-1
+5345c3a00280002dfe337889beee9d1d87795ada refs/remotes/origin/update-readme
+22f673655fbe404ea9c39d72f6cdc67989f812fa refs/tags/0.1.0
+8d94fe85e9d0be30c7a21978f54f59d1add72450 refs/tags/0.2.0
+41bb8be0fb889925865badc2835a3041621add98 refs/tags/0.3.0
+680368c202b40f87609e263d25720c54d28e7707 refs/tags/1.0.0
+680368c202b40f87609e263d25720c54d28e7707 refs/tags/1.0.0-RC1

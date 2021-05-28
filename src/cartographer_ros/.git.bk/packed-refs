@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled 
+b0661842bb9c8366b84195480916c16ea61af773 refs/remotes/origin/SirVer-patch-1
+730bcc76792c362e71cb10844ed392dded49b7de refs/remotes/origin/cschuet-patch-2
+edf25139a2ad004f17c2c4b92a7a7c88ce9088f0 refs/remotes/origin/master
+3cb7efd62c38125081b86844c5b2fee3147d0667 refs/remotes/origin/release-1.0
+eb804c1182aa94819792733ecf10bfadefb36348 refs/tags/0.1.0
+d0d7ebf1737cc069c4fd51756d17202df6af82ad refs/tags/0.2.0
+42d82cbdfd6a515aad8fd1830e0c26c9c1f53261 refs/tags/0.3.0
+3cb7efd62c38125081b86844c5b2fee3147d0667 refs/tags/1.0.0
